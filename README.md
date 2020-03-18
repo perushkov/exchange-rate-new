@@ -9,3 +9,9 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+## Input form
+- Display input row to quick print currencies convert
+- Put number and currencies which exchanging according to the example
+- Refreshed result from updated values on opposite side from type of currencies 
+- Update values on amount change in input row
