@@ -91,3 +91,10 @@ button:focus {
     width: 200px;
   }
 }
+
+#currency_input {
+  border: 0;
+  background: white;
+  font-size: 20px;
+  text-align: center;
+}
